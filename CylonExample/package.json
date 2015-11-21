@@ -1,0 +1,16 @@
+{
+  "name": "CylonExample",
+  "version": "0.1.0",
+  "description": "CylonExample",
+  "main": "app.js",
+  "author": {
+    "name": "Stamo Petkov",
+    "email": "stamo.petkov@gmail.com"
+  },
+  "dependencies": {
+    "cylon-api-http": "^0.4.0",
+    "cylon-firmata": "^0.23.0",
+    "cylon-gpio": "^0.27.0",
+    "cylon-i2c": "^0.23.0"
+  }
+}

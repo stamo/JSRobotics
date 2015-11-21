@@ -1,0 +1,14 @@
+{
+  "name": "JohnnyFiveExample",
+  "version": "0.0.0",
+  "description": "JohnnyFiveExample",
+  "main": "app.js",
+  "author": {
+    "name": "Stamo",
+    "email": ""
+  },
+  "dependencies": {
+    "j5-songs": "0.0.8",
+    "johnny-five": "^0.9.11"
+  }
+}
